@@ -33,10 +33,7 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 ## Screenshot of the webpage
-```
 ![Alt text](./Develop/screenshot.PNG?raw=true "Screenshot")
-```
+
 ## Live deployed URL
-```
 https://lim95.github.io/03-JavaScript-Challenge--Password-Generator/
-```
