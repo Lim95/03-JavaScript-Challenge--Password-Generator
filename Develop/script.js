@@ -7,7 +7,7 @@ var SPECIAL_CHARACTERS_LENGTH = 33;
 var ALPHABET_LETTERS_LENGTH = 26;
 var NUM_LENGTH = 10;
 
-// generates the password
+// generates the password 
 var generatePassword = function() {
   // get user's password length
   var userPasswordLength = getPasswordLength();
